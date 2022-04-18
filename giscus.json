@@ -1,4 +1,5 @@
 {
   "origins": ["https://www.sewb.dev", "https://sewb.dev"],
-  "defaultCommentOrder": "newest"
+  "defaultCommentOrder": "newest",
+  "originsRegex": ["http://localhost:[0-9]+"]
 }
