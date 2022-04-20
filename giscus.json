@@ -1,5 +1,5 @@
 {
-  "origins": ["https://www.sewb.dev", "https://sewb.dev"],
+  "origins": ["https://www.sewb.dev", "https://sewb.dev", "https://testing-sewbdotdev.netlify.app/"],
   "defaultCommentOrder": "newest",
   "originsRegex": ["http://localhost:[0-9]+"]
 }
